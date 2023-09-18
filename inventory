@@ -1,0 +1,5 @@
+[servers]
+192.168.117.4 ansible_python_interpreter=/usr/bin/python3
+192.168.117.5 ansible_python_interpreter=/usr/bin/python3
+192.168.117.6 ansible_python_interpreter=/usr/bin/python3
+
